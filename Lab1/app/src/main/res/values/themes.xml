@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Lab1" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Lab1" parent="Base.Theme.Lab1" />
+
+    <style name="Theme.Lab1.Level0" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#BFE7F7</item>
+    </style>
+
+    <style name="Theme.Lab1.Level1" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#EDE7F6</item>
+    </style>
+
+    <style name="Theme.Lab1.Level2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#E8F5E9</item>
+    </style>
+
+    <style name="Theme.Lab1.Level3" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#FFF3E0</item>
+    </style>
+
+</resources>
